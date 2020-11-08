@@ -76,8 +76,6 @@ namespace EjemploAccesoFicheros
                 Console.WriteLine(cadena);
             fichero_lectura_cambiado.Close();
 
-
-
             Console.ReadKey();
         }
     }
